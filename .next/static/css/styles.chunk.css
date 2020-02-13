@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+}
+.grid-header{
+    display: grid;
+    grid-template-columns: 1fr 1fr;  
+}
+.grid-header a{
+    border: 1px solid #292424;
+    padding: 10px 5px;
+    background-color: beige;
+    text-decoration: none;
+    color: #686262;
+    display: grid;
+    justify-content: center;
+    transition: 0.5s;
+}
+.grid-header a:hover{
+    background-color: rgb(26, 175, 131);
+    color: #ffffff;
+}
+.grid-footer{
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
+    background-color: rgb(170, 165, 165);
+    padding: 10px;
+    color: #ffffff;
+}
+
+/*# sourceMappingURL=styles.chunk.css.map*/

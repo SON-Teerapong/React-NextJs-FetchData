@@ -1,0 +1,1 @@
+{"ast":null,"code":"var Index = function Index() {};","map":{"version":3,"sources":["C:/Users/ADMIN/Desktop/react-tutorial/next-page1/pages/index.js"],"names":["Index"],"mappings":"AAAA,IAAMA,KAAK,GAAE,SAAPA,KAAO,GAAI,CAEhB,CAFD","sourcesContent":["const Index =()=>{\r\n    \r\n}"]},"metadata":{},"sourceType":"script"}
